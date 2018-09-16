@@ -1,5 +1,5 @@
 theme: jekyll-theme-merlot
 title: [This is reddresseson's blog]
 description: [I want to be good with git...]
-baseurl: reddresseson.github.io/intro
-url: reddresseson.github.io/intro
+baseurl: [reddresseson.github.io/intro]
+url: [reddresseson.github.io/intro]
